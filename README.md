@@ -1,6 +1,6 @@
 # Offside! 
 
-A C++ (RayLib) 2 player offline football game based on the famous Pong game 
+A C/C++ (RayLib) 2 player offline football game based on the famous Pong game 
 
 ## how to play
 You can start `Offside! game.exe` in the build folder (only for windows)
